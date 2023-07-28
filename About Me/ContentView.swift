@@ -21,7 +21,7 @@ struct ContentView: View {
                 .fontWeight(.bold)
                 .foregroundColor(Color(red: 0.019, green: 0.836, blue: 0.332))
             Button("Reveal some facts about me!") {
-                fact1 = "I have an older sister!"
+                fact1 = "I live in Boston"
                 fact2 = "I have a dog names Corn"
                 fact3 = "I lvoe to code even though it can be reallyy challenging!"
             }
